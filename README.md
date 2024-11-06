@@ -61,6 +61,10 @@ Navigate to your EC2 Instances and verify that the new EC2 Instance we just laun
 Once we’ve verified our EC2 Instance is running, navigate to the top right pane, click “Actions” and select “Connect” as seen below.
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/d9fec3957067457a1af3f76318334663a2f39b23/ff.png)
 
+Click on the “SSH Client tab”, as show below. AWS is helpful enough to suggest some instructions on how we connect to the EC2 Instance, however, I will walk you through the whole process.
+
+
+
 
 
 
