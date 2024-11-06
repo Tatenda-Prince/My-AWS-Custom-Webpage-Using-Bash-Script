@@ -50,5 +50,7 @@ As stated below, Security Groups serve as a set of Firewall rules that you can u
 
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/72b9fcf87ee1f4888b4ade9a57aa06cd296eebad/dc.png)
 
+Make sure all configurations align with our previous steps, then click “Launch instance”, as seen below.
+
 
 
