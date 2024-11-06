@@ -67,6 +67,8 @@ Click on the “SSH Client tab”, as show below. AWS is helpful enough to sugge
 Use Key pair to ssh into EC2 Instance from CLI on local system
 Locate the directory path where the downloaded key pair is stored and run the following command to change into that working directory 
 
+![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/37fcda98fd0446efc964339a8fd9e3d1f4d0524f/ii.png)
+
 
 
 
