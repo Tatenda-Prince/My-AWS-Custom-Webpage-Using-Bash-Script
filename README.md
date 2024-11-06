@@ -21,3 +21,7 @@ The first field allows you to name your EC2 Instance. We also have the option to
 Continue to select the desired Amazon AMI —
 
 We will choose the “Amazon Linux 2 AMI” of the latest 5.10 Kernel with a 64-bit (x86) architecture, as seen below.
+
+Proceed to the Instance Type options —
+
+We will choose the “t2.micro” which is part of the AWS free tier. This instance type offers 750 hours free use of Linux and Windows instances each month for one year for new AWS customers.
