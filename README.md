@@ -67,6 +67,13 @@ Click on the “SSH Client tab”, as show below. AWS is helpful enough to sugge
 Use Key pair to ssh into EC2 Instance from CLI on local system
 Locate the directory path where the downloaded key pair is stored and run the following command to change into that working directory 
 
+To prevent others who may access your system from having unauthorized access to the key pair file, we need to modify the permissions of the file so only the user can read it.
+
+Modify the permissions and verify the modifications were made by running the following two separate commands respectively
+
+##Run ssh command passing in key pair file to authenticate into the EC2 Instance
+We need to run the ssh command in your CLI and in addition, add the “-i” option to pass the key pair file at the same time to authenticate into your EC2 Instance.
+
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/37fcda98fd0446efc964339a8fd9e3d1f4d0524f/ii.png)
 
 
