@@ -41,3 +41,5 @@ Continue to the Network settings —
 Each custom AWS account network is automatically preconfigured with a default VPC when an EC2 Instance in launched. Also, we will keep “Auto-assign public IP” enabled, as this allows our EC2 Instance to automatically receive a public IP address to enable it to connect to the internet upon launch.
 
 We will leave these setting in the default state, as seen below.
+
+![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/0400917b7ca9fcd59d02d804031d3f5d625baee0/bb.png)
