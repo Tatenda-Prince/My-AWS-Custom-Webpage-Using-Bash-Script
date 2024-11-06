@@ -11,3 +11,5 @@ You are a Cloud Engineer for Tatenda TECH tasked with creating an Amazon EC2 Ins
 Navigate to EC2 configuration page
 
 Before we can configure the Amazon EC2 Instance, we need to first sign into your AWS IAM Account. After signing into your AWS account, navigate to the top of dashboard to search for the EC2 Service, click on “EC2”, then “Launch instance”, as seen below.
+
+
