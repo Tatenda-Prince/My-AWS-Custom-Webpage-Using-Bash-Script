@@ -88,6 +88,10 @@ The bash script below updates all yum package repositories then installs an Apac
 ##Step 4: View custom Webpage served by Apache Web Server, powered on EC2.
 Open your desired browser and paste the public IPv4 address of your Amazon EC2 Instance in the address bar, then hit “enter” on your keyboard.
 
+![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/e01202af2f5cbe98faf7322caf8c142bce871249/jj.png)
+
+I have successfully created a EC2 web server 
+
 
 
 
