@@ -85,6 +85,9 @@ Create a directory for the script and change your working directory into it by r
 The bash script below updates all yum package repositories then installs an Apache Web Server to serve content to our browsers. The server is then started and then enabled. The last line adds html code to an “index.html” file which enables our Server to serve our custom Website through our EC2 Instance.
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/b4678fd278d0ceb569662ff03ba9281ae0d57272/tt.png)
 
+##Step 4: View custom Webpage served by Apache Web Server, powered on EC2.
+Open your desired browser and paste the public IPv4 address of your Amazon EC2 Instance in the address bar, then hit “enter” on your keyboard.
+
 
 
 
