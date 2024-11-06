@@ -53,6 +53,13 @@ As stated below, Security Groups serve as a set of Firewall rules that you can u
 Make sure all configurations align with our previous steps, then click “Launch instance”, as seen below.
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/7bb126e8bf2eeeeca3a0f864a7badc697f471366/dd.png)
 
+##Step 2: SSH into Amazon EC2 Instance
+Verify EC2 is running and navigate to options to connect to instance
+
+Navigate to your EC2 Instances and verify that the new EC2 Instance we just launched is running.
+
+Once we’ve verified our EC2 Instance is running, navigate to the top right pane, click “Actions” and select “Connect” as seen below.
+
 
 
 
