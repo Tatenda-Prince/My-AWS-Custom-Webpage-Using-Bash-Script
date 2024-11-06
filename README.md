@@ -76,6 +76,10 @@ We need to run the ssh command in your CLI and in addition, add the “-i” opt
 
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/37fcda98fd0446efc964339a8fd9e3d1f4d0524f/ii.png)
 
+###Step 3: Create Bash Script to automate Website deployment
+Create new script directory and use vim to create and edit script file
+Create a directory for the script and change your working directory into it by running the following separate commands respectively
+
 
 
 
