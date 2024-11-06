@@ -80,6 +80,8 @@ We need to run the ssh command in your CLI and in addition, add the “-i” opt
 Create new script directory and use nano to create and edit script file
 Create a directory for the script and change your working directory into it by running the following separate commands respectively
 
+![imagee alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/36b2cc637d6b7a65690abbb67b2d8b0db7b1dcf6/ww.png)
+
 
 
 
