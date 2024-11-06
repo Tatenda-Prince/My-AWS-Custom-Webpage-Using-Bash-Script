@@ -48,4 +48,7 @@ Continue to the Firewall (Security Group) settings —
 
 As stated below, Security Groups serve as a set of Firewall rules that you can use to control traffic to your instance. We are going to allow “SSH” traffic to enable us to securely connect to our EC2 Instance and also “HTTPS” and “HTTP” so we can send requests and be served our Webpage in our browser over the internet.
 
+![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/72b9fcf87ee1f4888b4ade9a57aa06cd296eebad/dc.png)
+
+
 
