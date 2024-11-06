@@ -27,3 +27,9 @@ Proceed to the Instance Type options —
 We will choose the “t2.micro” which is part of the AWS free tier. This instance type offers 750 hours free use of Linux and Windows instances each month for one year for new AWS customers.
 
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/fd9f84c40e730f657c32f93cd53ef3de5ff286ef/ab.png)
+
+Proceed to the Key pair option —
+
+Click on the “Create new key pair” to create a new key pair, then enter your desired key pair name. Select “RSA” for key pair type and “.pem” for private key file format.
+
+Click on “Create key pair”, as show below. The “.pm” file should automatically start downloading on your local system. Locate the file after the download is complete and store it in a safe directory. Later, we will use this key pair to connect to our EC2 Instance through ssh.
