@@ -35,3 +35,9 @@ Click on the “Create new key pair” to create a new key pair, then enter your
 Click on “Create key pair”, as show below. The “.pm” file should automatically start downloading on your local system. Locate the file after the download is complete and store it in a safe directory. Later, we will use this key pair to connect to our EC2 Instance through ssh.
 
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/1724dc69370a1e7401a41a2a226d1feb0382fdba/ac.png)
+
+Continue to the Network settings —
+
+Each custom AWS account network is automatically preconfigured with a default VPC when an EC2 Instance in launched. Also, we will keep “Auto-assign public IP” enabled, as this allows our EC2 Instance to automatically receive a public IP address to enable it to connect to the internet upon launch.
+
+We will leave these setting in the default state, as seen below.
