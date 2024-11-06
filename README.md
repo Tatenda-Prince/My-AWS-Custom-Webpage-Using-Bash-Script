@@ -14,3 +14,10 @@ Before we can configure the Amazon EC2 Instance, we need to first sign into your
 
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/0a32e8ba594149359319eeaf87ac9aa557fd3e01/aa.png)
 
+##Configure and Launch EC2
+
+The first field allows you to name your EC2 Instance. We also have the option to add tags. Tags act as a label which can be used to group resources in AWS, but for now, we will not add any.
+
+Continue to select the desired Amazon AMI —
+
+We will choose the “Amazon Linux 2 AMI” of the latest 5.10 Kernel with a 64-bit (x86) architecture, as seen below.
