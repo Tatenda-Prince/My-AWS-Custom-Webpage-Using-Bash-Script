@@ -26,4 +26,4 @@ Proceed to the Instance Type options —
 
 We will choose the “t2.micro” which is part of the AWS free tier. This instance type offers 750 hours free use of Linux and Windows instances each month for one year for new AWS customers.
 
-
+![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/fd9f84c40e730f657c32f93cd53ef3de5ff286ef/ab.png)
