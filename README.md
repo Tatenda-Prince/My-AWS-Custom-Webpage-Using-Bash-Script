@@ -1,6 +1,9 @@
-# my-custom-webpage
+
 
 #  Deployment of AWS Custom Webpage Using Bash Script 
+
+# Intro 
+I will guide you through how we can automate the deployment of a Website, served by an Apache Web Server on an Amazon EC2 Instance that runs Amazon Linux 2. We will be using the AWS Management Console along with a preferred Command Line Interface on your local system.
 
 # Use Case
 You are a Cloud Engineer for Tatenda TECH tasked with creating an Amazon EC2 Instance on AWS to host the organizations new website. Traditionally, Tatenda TECH hosts their websites on premise which involves purchasing very expensive infrastructure in a data center. The organization now wants to migrate to the cloud to decrease costs of capital expenditure and increase efficiency.
