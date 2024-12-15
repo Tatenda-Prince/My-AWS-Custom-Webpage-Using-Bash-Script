@@ -90,9 +90,11 @@ We need to run the ssh command in your CLI and in addition, add the “-i” opt
 Create new script directory and use nano to create and edit script file
 Create a directory for the script and change your working directory into it by running the following separate commands respectively
 
+
 ![imagee alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/36b2cc637d6b7a65690abbb67b2d8b0db7b1dcf6/ww.png)
 
 The bash script below updates all yum package repositories then installs an Apache Web Server to serve content to our browsers. The server is then started and then enabled. The last line adds html code to an “index.html” file which enables our Server to serve our custom Website through our EC2 Instance.
+
 
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/b4678fd278d0ceb569662ff03ba9281ae0d57272/tt.png)
 
