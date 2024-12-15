@@ -1,11 +1,11 @@
 # my-custom-webpage
 
-##  Deployment of AWS Custom Webpage Using Bash Script 
+#  Deployment of AWS Custom Webpage Using Bash Script 
 
-## Use Case
+# Use Case
 You are a Cloud Engineer for Tatenda TECH tasked with creating an Amazon EC2 Instance on AWS to host the organizations new website. Traditionally, Tatenda TECH hosts their websites on premise which involves purchasing very expensive infrastructure in a data center. The organization now wants to migrate to the cloud to decrease costs of capital expenditure and increase efficiency.
 
-##Step 1: Configure and Launch Amazon EC2 Instance
+# Step 1: Configure and Launch Amazon EC2 Instance
 
 Navigate to EC2 configuration page
 
