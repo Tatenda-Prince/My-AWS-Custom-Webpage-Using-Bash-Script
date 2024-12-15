@@ -40,7 +40,7 @@ Click on “Create key pair”, as show below. The “.pm” file should automat
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/1724dc69370a1e7401a41a2a226d1feb0382fdba/ac.png)
 
 
-Continue to the Network settings 
+# Continue to the Network settings 
 
 Each custom AWS account network is automatically preconfigured with a default VPC when an EC2 Instance in launched. Also, we will keep “Auto-assign public IP” enabled, as this allows our EC2 Instance to automatically receive a public IP address to enable it to connect to the internet upon launch.
 
@@ -49,7 +49,7 @@ We will leave these setting in the default state, as seen below.
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/0400917b7ca9fcd59d02d804031d3f5d625baee0/bb.png)
 
 
-Continue to the Firewall (Security Group) settings 
+# Continue to the Firewall (Security Group) settings 
 
 As stated below, Security Groups serve as a set of Firewall rules that you can use to control traffic to your instance. We are going to allow “SSH” traffic to enable us to securely connect to our EC2 Instance and also “HTTPS” and “HTTP” so we can send requests and be served our Webpage in our browser over the internet.
 
