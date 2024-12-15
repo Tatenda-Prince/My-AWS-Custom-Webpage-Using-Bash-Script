@@ -13,7 +13,7 @@ Before we can configure the Amazon EC2 Instance, we need to first sign into your
 
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/0a32e8ba594149359319eeaf87ac9aa557fd3e01/aa.png)
 
-##Configure and Launch EC2
+# Configure and Launch EC2
 
 The first field allows you to name your EC2 Instance. We also have the option to add tags. Tags act as a label which can be used to group resources in AWS, but for now, we will not add any.
 
@@ -28,7 +28,7 @@ We will choose the “t2.micro” which is part of the AWS free tier. This insta
 
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/fd9f84c40e730f657c32f93cd53ef3de5ff286ef/ab.png)
 
-Proceed to the Key pair option 
+# Proceed to the Key pair option 
 
 Click on the “Create new key pair” to create a new key pair, then enter your desired key pair name. Select “RSA” for key pair type and “.pem” for private key file format.
 
@@ -57,7 +57,7 @@ As stated below, Security Groups serve as a set of Firewall rules that you can u
 Make sure all configurations align with our previous steps, then click “Launch instance”, as seen below.
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/7bb126e8bf2eeeeca3a0f864a7badc697f471366/dd.png)
 
-##Step 2: SSH into Amazon EC2 Instance
+# Step 2: SSH into Amazon EC2 Instance
 Verify EC2 is running and navigate to options to connect to instance
 
 Navigate to your EC2 Instances and verify that the new EC2 Instance we just launched is running.
@@ -77,13 +77,13 @@ To prevent others who may access your system from having unauthorized access to 
 
 Modify the permissions and verify the modifications were made by running the following two separate commands respectively
 
-##Run ssh command passing in key pair file to authenticate into the EC2 Instance
+# Run ssh command passing in key pair file to authenticate into the EC2 Instance
 We need to run the ssh command in your CLI and in addition, add the “-i” option to pass the key pair file at the same time to authenticate into your EC2 Instance.
 
 
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/37fcda98fd0446efc964339a8fd9e3d1f4d0524f/ii.png)
 
-###Step 3: Create Bash Script to automate Website deployment
+# Step 3: Create Bash Script to automate Website deployment
 Create new script directory and use nano to create and edit script file
 Create a directory for the script and change your working directory into it by running the following separate commands respectively
 
@@ -93,12 +93,12 @@ The bash script below updates all yum package repositories then installs an Apac
 
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/b4678fd278d0ceb569662ff03ba9281ae0d57272/tt.png)
 
-##Step 4: View custom Webpage served by Apache Web Server, powered on EC2.
+# Step 4: View custom Webpage served by Apache Web Server, powered on EC2.
 Open your desired browser and paste the public IPv4 address of your Amazon EC2 Instance in the address bar, then hit “enter” on your keyboard.
 
 ![image alt](https://github.com/Tatenda-Prince/my-custom-webpage-/blob/e01202af2f5cbe98faf7322caf8c142bce871249/jj.png)
 
-I have successfully created a EC2 web server 
+# You have successfully created a EC2 web server 
 
 
 
